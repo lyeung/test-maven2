@@ -6,6 +6,6 @@ package test;
 public class App {
 
     public void test() {
-
+        int a = 0;
     }
 }
